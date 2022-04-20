@@ -1,0 +1,8 @@
+"First Personal Quote"
+- Author 1
+
+"Second Personal Quote"
+- Author 2
+
+"Third Personal Quote"
+- Author 3
