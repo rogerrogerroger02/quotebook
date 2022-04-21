@@ -6,6 +6,3 @@
 
 "Third Personal Quote"
 - Author 3
-
-"Fourth Personal Quote"
-- Author 4
